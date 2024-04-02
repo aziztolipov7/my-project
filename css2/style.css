@@ -1,0 +1,15 @@
+.flex__box{
+  background-color: aliceblue;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px
+  ;
+}
+.flex__item{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 15px;
+}
